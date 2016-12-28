@@ -1,0 +1,374 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.99.0-Master">
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="bodenbedeckung_boflaeche20161202175452769" name="bodenbedeckung_boflaeche">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="bodenbedeckung_boflaeche_geometrie20161202175452239" name="bodenbedeckung_boflaeche_geometrie">
+      <customproperties/>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>meters</units>
+    <extent>
+      <xmin>2638209.52961348136886954</xmin>
+      <ymin>1229541.10355163225904107</ymin>
+      <xmax>2638212.72492598136886954</xmax>
+      <ymax>1229544.20511413225904107</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>0</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=somerc +lat_0=46.95240555555556 +lon_0=7.439583333333333 +k_0=1 +x_0=2600000 +y_0=1200000 +ellps=bessel +towgs84=674.374,15.056,405.346,0,0,0,0 +units=m +no_defs</proj4>
+        <srsid>47</srsid>
+        <srid>2056</srid>
+        <authid>EPSG:2056</authid>
+        <description>CH1903+ / LV95</description>
+        <projectionacronym>somerc</projectionacronym>
+        <ellipsoidacronym>bessel</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <layer_coordinate_transform_info/>
+  </mapcanvas>
+  <layer-tree-canvas>
+    <custom-order enabled="0">
+      <item>bodenbedeckung_boflaeche_geometrie20161202175452239</item>
+      <item>bodenbedeckung_boflaeche20161202175452769</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="bodenbedeckung_boflaeche" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="bodenbedeckung_boflaeche20161202175452769" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="bodenbedeckung_boflaeche_geometrie" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="bodenbedeckung_boflaeche_geometrie20161202175452239" visible="1"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <Composer title="Composer 1">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="1" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+      <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+        <layer pass="0" class="SimpleFill" locked="0">
+          <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="color" v="255,255,255,255"/>
+          <prop k="joinstyle" v="miter"/>
+          <prop k="offset" v="0,0"/>
+          <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="offset_unit" v="MM"/>
+          <prop k="outline_color" v="0,0,0,255"/>
+          <prop k="outline_style" v="no"/>
+          <prop k="outline_width" v="0.26"/>
+          <prop k="outline_width_unit" v="MM"/>
+          <prop k="style" v="solid"/>
+        </layer>
+      </symbol>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="1229541.85191882704384625" xmin="2638209.35190871870145202" ymax="1229544.06930650491267443" xmax="2638212.54722121870145202"/>
+        <LayerSet/>
+        <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="1" bottomAnnotationPosition="0" annotationPrecision="0" showAnnotation="1" topFrameDivisions="0" uuid="{f1e22eda-b02c-4bda-ab31-0cf420d18106}" leftAnnotationDirection="0" topAnnotationPosition="0" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="1" annotationFontColor="0,0,0,255" intervalX="1" gridFrameSideFlags="15" intervalY="1" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.29999999999999999" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="0" blendMode="0" gridFrameStyle="2" rightAnnotationPosition="0" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="flat"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0.3"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description="Zurich Cn BT,9,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="8" page="1" id="" lastValidViewScaleFactor="1.98367" positionMode="0" positionLock="false" x="7" y="8" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="281" outlineWidth="0.3" excludeFromExports="0" uuid="{5ed07a4d-c222-4aeb-b7d4-c5c0d9864146}" height="195" itemRotation="0" frame="false" pagex="7">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <customproperties/>
+    </Composition>
+  </Composer>
+  <projectlayers>
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1">
+      <id>bodenbedeckung_boflaeche20161202175452769</id>
+      <datasource>dbname='xanadu2' host=localhost port=5432 user='stefan' password='ziegler12' sslmode=disable key='"t_id"' srid=2056 type=Point table="d_rich_lines"."bodenbedeckung_boflaeche" (geometrie_ref) sql=</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>bodenbedeckung_boflaeche</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=somerc +lat_0=46.95240555555556 +lon_0=7.439583333333333 +k_0=1 +x_0=2600000 +y_0=1200000 +ellps=bessel +towgs84=674.374,15.056,405.346,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>47</srsid>
+          <srid>2056</srid>
+          <authid>EPSG:2056</authid>
+          <description>CH1903+ / LV95</description>
+          <projectionacronym>somerc</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="windows-1250">postgres</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <defaults>
+        <default field="t_id" expression=""/>
+        <default field="t_basket" expression=""/>
+        <default field="qualitaet" expression=""/>
+        <default field="art" expression=""/>
+        <default field="entstehung" expression=""/>
+      </defaults>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes/>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
+            <layer pass="0" class="SimpleMarker" locked="0">
+              <prop k="angle" v="0"/>
+              <prop k="color" v="36,161,17,255"/>
+              <prop k="horizontal_anchor_point" v="1"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="name" v="circle"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="scale_method" v="diameter"/>
+              <prop k="size" v="2"/>
+              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="size_unit" v="MM"/>
+              <prop k="vertical_anchor_point" v="1"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <annotationform></annotationform>
+      <aliases>
+        <alias field="t_id" index="0" name=""/>
+        <alias field="t_basket" index="1" name=""/>
+        <alias field="qualitaet" index="2" name=""/>
+        <alias field="art" index="3" name=""/>
+        <alias field="entstehung" index="4" name=""/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions default="-1"/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns/>
+      </attributetableconfig>
+      <editform></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <expressionfields/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1">
+      <extent>
+        <xmin>2635698</xmin>
+        <ymin>1227371.125</ymin>
+        <xmax>2639071.75</xmax>
+        <ymax>1230644.125</ymax>
+      </extent>
+      <id>bodenbedeckung_boflaeche_geometrie20161202175452239</id>
+      <datasource>dbname='xanadu2' host=localhost port=5432 user='stefan' password='ziegler12' sslmode=disable key='"t_id"' srid=2056 type=CompoundCurve table="d_rich_lines"."bodenbedeckung_boflaeche_geometrie" (_geom) sql=</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>bodenbedeckung_boflaeche_geometrie</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=somerc +lat_0=46.95240555555556 +lon_0=7.439583333333333 +k_0=1 +x_0=2600000 +y_0=1200000 +ellps=bessel +towgs84=674.374,15.056,405.346,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>47</srsid>
+          <srid>2056</srid>
+          <authid>EPSG:2056</authid>
+          <description>CH1903+ / LV95</description>
+          <projectionacronym>somerc</projectionacronym>
+          <ellipsoidacronym>bessel</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="windows-1250">postgres</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <defaults>
+        <default field="t_id" expression=""/>
+        <default field="t_basket" expression=""/>
+      </defaults>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes/>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="line" name="0">
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="117,156,127,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="0.26"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <annotationform></annotationform>
+      <aliases>
+        <alias field="t_id" index="0" name=""/>
+        <alias field="t_basket" index="1" name=""/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions default="-1"/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns>
+          <column width="-1" hidden="0" type="field" name="t_id"/>
+          <column width="-1" hidden="0" type="field" name="t_basket"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
+      </attributetableconfig>
+      <editform></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <expressionfields/>
+      <previewExpression>"t_id"</previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <Measurement>
+      <DistanceUnits type="QString">meters</DistanceUnits>
+      <AreaUnits type="QString">m2</AreaUnits>
+    </Measurement>
+    <SpatialRefSys>
+      <ProjectCRSProj4String type="QString">+proj=somerc +lat_0=46.95240555555556 +lon_0=7.439583333333333 +k_0=1 +x_0=2600000 +y_0=1200000 +ellps=bessel +towgs84=674.374,15.056,405.346,0,0,0,0 +units=m +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:2056</ProjectCrs>
+      <ProjectCRSID type="int">47</ProjectCRSID>
+    </SpatialRefSys>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <Gui>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+    </Gui>
+    <Digitizing>
+      <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
+      <SnappingMode type="QString">current_layer</SnappingMode>
+      <DefaultSnapType type="QString">off</DefaultSnapType>
+      <DefaultSnapTolerance type="double">20</DefaultSnapTolerance>
+    </Digitizing>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+  <visibility-presets/>
+</qgis>

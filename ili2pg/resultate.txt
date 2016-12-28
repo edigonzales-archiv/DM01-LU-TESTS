@@ -1,0 +1,22 @@
+107 Gemeinden
+
+89 konnten mit ili2pg-3.5.0 importiert werden.
+
+find . -iname "*.log" | xargs grep Error > error_stat.txt
+
+"cut edges" (mehrheitlich) und "no area-ref to polygon"
+
+
+
+
+
+
+
+
+
+
+
+java -jar /home/stefan/Apps/ili2gpkg-3.5.0/ili2gpkg.jar --sqlEnableNull --models DM01AVCH24LV95D --skipPolygonBuilding --keepAreaRef --disableValidation --nameByTopic --defaultSrsCode 2056 --import --dbfile d_rich.gpkg --trace --log d_rich_trace.log /home/stefan/tmp/DM01_KT_LU/d_rich.itf
+
+
+java -jar /home/stefan/Apps/ili2gpkg-3.5.0/ili2gpkg.jar --sqlEnableNull --models DM01AVCH24LV95D --disableValidation --skipPolygonBuilding --nameByTopic --defaultSrsCode 2056 --import --dbfile d_rich.gpkg --log d_rich_trace.log /home/stefan/tmp/DM01_KT_LU/d_rich.itf

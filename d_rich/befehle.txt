@@ -1,0 +1,8 @@
+# skip polygon building
+
+java -jar /home/stefan/Apps/ili2pg/ili2pg-3.4.1.jar --dbhost localhost --dbport 5432 --dbdatabase xanadu2 --dbusr stefan --dbpwd ziegler12 --dbschema d_rich_lines --skipPolygonBuilding --keepAreaRef --sqlEnableNull --createFkIdx --createGeomIdx --createBasketCol --models DM01AVCH24LV95D --disableValidation --nameByTopic --defaultSrsCode 2056 --import /home/stefan/tmp/DM01_KT_LU/d_rich.itf
+
+
+# trace (full import)
+
+java -jar /home/stefan/Apps/ili2pg/ili2pg-3.5.0.jar --dbhost localhost --dbport 5432 --dbdatabase xanadu2 --dbusr stefan --dbpwd ziegler12 --dbschema d_rich  --sqlEnableNull --createFkIdx --createGeomIdx --createBasketCol --models DM01AVCH24LV95D --disableValidation --nameByTopic --defaultSrsCode 2056 --trace --log /home/stefan/Projekte/DM01-LU-TESTS/d_rich/d_rich_trace.log --import /home/stefan/tmp/DM01_KT_LU/d_rich.itf

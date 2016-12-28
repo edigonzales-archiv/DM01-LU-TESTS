@@ -1,0 +1,144 @@
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1432)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1436)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1449)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1456)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1478)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1430)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids modified-1429, overlap-1429)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1471)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1434)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1462)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids overlap-1428, modified-1428, 1428)
+./d_rich.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1467)
+./d_rich.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./d_rich.itf.log:Error:   cut edges
+./d_rich.itf.log:Error: ...import failed
+./d_menz.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids modified-3765, overlap-3765, 3765)
+./d_menz.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 3769)
+./d_menz.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 3718)
+./d_menz.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 3719)
+./d_menz.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 3720)
+./d_menz.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./d_menz.itf.log:Error:   cut edges
+./d_menz.itf.log:Error: ...import failed
+./b_rain.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./b_rain.itf.log:Error:   DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie: no area-ref to polygon
+./b_rain.itf.log:Error: ...import failed
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 26487)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 29042)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 2543)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 26485)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 26481)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 26477)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids modified-3126, overlap-3126)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 372)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 26482)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 26483)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids modified-3125, 3125, overlap-3125)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 26484)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids modified-26478, overlap-26478, 26478)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids overlap-373, modified-373, 373)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 3124)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 8824)
+./a_lure.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 26475)
+./a_lure.ITF.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./a_lure.ITF.log:Error:   cut edges
+./a_lure.ITF.log:Error: ...import failed
+./c_grwa.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1786)
+./c_grwa.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 1789)
+./c_grwa.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./c_grwa.itf.log:Error:   cut edges
+./c_grwa.itf.log:Error: ...import failed
+./e_esol.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 13639)
+./e_esol.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids overlap-13534, 13534, modified-13534)
+./e_esol.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 13533)
+./e_esol.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./e_esol.itf.log:Error:   cut edges
+./e_esol.itf.log:Error: ...import failed
+./b_gelf.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 4057)
+./b_gelf.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 4056)
+./b_gelf.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids modified-4058, overlap-4058, 4058)
+./b_gelf.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./b_gelf.itf.log:Error:   cut edges
+./b_gelf.itf.log:Error: ...import failed
+./b_esen.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./b_esen.itf.log:Error:   DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie: no area-ref to polygon
+./b_esen.itf.log:Error: ...import failed
+./a_ebik.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 16064)
+./a_ebik.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids overlap-16061, modified-16061)
+./a_ebik.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 16062)
+./a_ebik.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 16997)
+./a_ebik.ITF.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./a_ebik.ITF.log:Error:   cut edges
+./a_ebik.ITF.log:Error: ...import failed
+./a_adli.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 10138)
+./a_adli.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 10126)
+./a_adli.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 10141)
+./a_adli.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 10140)
+./a_adli.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 10139)
+./a_adli.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 10125)
+./a_adli.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 10124)
+./a_adli.ITF.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./a_adli.ITF.log:Error:   cut edges
+./a_adli.ITF.log:Error: ...import failed
+./b_mues.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./b_mues.itf.log:Error:   DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie: no area-ref to polygon
+./b_mues.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Nomenklatur.Flurname.Geometrie
+./b_mues.itf.log:Error:   DM01AVCH24LV95D.Nomenklatur.Flurname.Geometrie: no area-ref to polygon
+./b_mues.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Liegenschaften.Liegenschaft.Geometrie
+./b_mues.itf.log:Error:   DM01AVCH24LV95D.Liegenschaften.Liegenschaft.Geometrie: no area-ref to polygon
+./b_mues.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Gemeindegrenzen.Gemeindegrenze.Geometrie
+./b_mues.itf.log:Error:   DM01AVCH24LV95D.Gemeindegrenzen.Gemeindegrenze.Geometrie: no area-ref to polygon
+./b_mues.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Planeinteilungen.Plangeometrie.Geometrie
+./b_mues.itf.log:Error:   DM01AVCH24LV95D.Planeinteilungen.Plangeometrie.Geometrie: no area-ref to polygon
+./b_mues.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.TSEinteilung.Toleranzstufe.Geometrie
+./b_mues.itf.log:Error:   DM01AVCH24LV95D.TSEinteilung.Toleranzstufe.Geometrie: no area-ref to polygon
+./b_mues.itf.log:Error: ...import failed
+./d_wila.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./d_wila.itf.log:Error:   DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie: no area-ref to polygon
+./d_wila.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Nomenklatur.Flurname.Geometrie
+./d_wila.itf.log:Error:   DM01AVCH24LV95D.Nomenklatur.Flurname.Geometrie: no area-ref to polygon
+./d_wila.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Liegenschaften.Liegenschaft.Geometrie
+./d_wila.itf.log:Error:   DM01AVCH24LV95D.Liegenschaften.Liegenschaft.Geometrie: no area-ref to polygon
+./d_wila.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Planeinteilungen.Plangeometrie.Geometrie
+./d_wila.itf.log:Error:   DM01AVCH24LV95D.Planeinteilungen.Plangeometrie.Geometrie: no area-ref to polygon
+./d_wila.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.TSEinteilung.Toleranzstufe.Geometrie
+./d_wila.itf.log:Error:   DM01AVCH24LV95D.TSEinteilung.Toleranzstufe.Geometrie: no area-ref to polygon
+./d_wila.itf.log:Error: ...import failed
+./c_gunz.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 6771)
+./c_gunz.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 6651)
+./c_gunz.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 6650)
+./c_gunz.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids overlap-6773, modified-6773, 6773)
+./c_gunz.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids overlap-6777, modified-6777, 6777)
+./c_gunz.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./c_gunz.itf.log:Error:   cut edges
+./c_gunz.itf.log:Error: ...import failed
+./e_swer.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 6794)
+./e_swer.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 6800)
+./e_swer.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 6798)
+./e_swer.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 8135)
+./e_swer.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 8133)
+./e_swer.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 6802)
+./e_swer.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids overlap-6803, modified-6803)
+./e_swer.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./e_swer.itf.log:Error:   cut edges
+./e_swer.itf.log:Error: ...import failed
+./d_dagm.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./d_dagm.itf.log:Error:   DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie: no area-ref to polygon
+./d_dagm.itf.log:Error: ...import failed
+./a_litt.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 18109)
+./a_litt.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 18105)
+./a_litt.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tids overlap-18106, 18106, modified-18106)
+./a_litt.ITF.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 18108)
+./a_litt.ITF.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./a_litt.ITF.log:Error:   cut edges
+./a_litt.ITF.log:Error: ...import failed
+./d_reid.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./d_reid.itf.log:Error:   DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie: no area-ref to polygon
+./d_reid.itf.log:Error: ...import failed
+./b_inwi.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 5489)
+./b_inwi.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 5487)
+./b_inwi.itf.log:Error: DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche_Geometrie: cut edge (tid 5491)
+./b_inwi.itf.log:Error: failed to build polygons of DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche.Geometrie
+./b_inwi.itf.log:Error:   cut edges
+./b_inwi.itf.log:Error: ...import failed

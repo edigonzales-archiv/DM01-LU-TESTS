@@ -1,0 +1,146 @@
+Info: ili2c-4.5.23-20160708
+Info: java.version 1.8.0_111
+Info: user.name <stefan>
+Info: maxMemory 7298560 KB
+Info: dbschema <av_avdpool_lu>
+Info: dburl <jdbc:postgresql://localhost:5432/xanadu2>
+Info: dbusr <stefan>
+Info: databaseProduct <PostgreSQL>
+Info: databaseVersion <9.3.15>
+Info: driverVersion <PostgreSQL 9.4.1208.jre6>
+Info: postGISVersion <POSTGIS="2.2.2 r14797" GEOS="3.5.0-CAPI-1.9.0 r4084" PROJ="Rel. 4.8.0, 6 March 2012" GDAL="GDAL 2.2.0dev, released 2016/99/99" LIBXML="2.9.1" LIBJSON="0.11.99" RASTER>
+Info: compile models...
+Info: lookup model <DM01AVCH24LV95D> in repository <http://models.interlis.ch/>
+Info: lookup model <DM01AVCH24LV95D> in repository <http://models.geo.admin.ch>
+Info: ilifile </home/stefan/.ilicache/models.geo.admin.ch/V_D/DM.01-AV-CH_LV95_24d_ili1.ili>
+Info: process data file...
+Info: data </home/stefan/tmp/DM01_KT_LU/d_eber.itf>
+Info: Basket DM01AVCH24LV95D.FixpunkteKategorie1(oid itf0)...
+Info: Basket DM01AVCH24LV95D.FixpunkteKategorie2(oid itf1)...
+Info: Basket DM01AVCH24LV95D.FixpunkteKategorie3(oid itf2)...
+Info: Basket DM01AVCH24LV95D.Bodenbedeckung(oid itf3)...
+Info: Basket DM01AVCH24LV95D.Einzelobjekte(oid itf4)...
+Info: Basket DM01AVCH24LV95D.Hoehen(oid itf5)...
+Info: Basket DM01AVCH24LV95D.Nomenklatur(oid itf6)...
+Info: Basket DM01AVCH24LV95D.Liegenschaften(oid itf7)...
+Info: Basket DM01AVCH24LV95D.Rohrleitungen(oid itf8)...
+Info: Basket DM01AVCH24LV95D.Nummerierungsbereiche(oid itf9)...
+Info: Basket DM01AVCH24LV95D.Gemeindegrenzen(oid itf10)...
+Info: Basket DM01AVCH24LV95D.Bezirksgrenzen(oid itf11)...
+Info: Basket DM01AVCH24LV95D.Kantonsgrenzen(oid itf12)...
+Info: Basket DM01AVCH24LV95D.Landesgrenzen(oid itf13)...
+Info: Basket DM01AVCH24LV95D.Planeinteilungen(oid itf14)...
+Info: Basket DM01AVCH24LV95D.TSEinteilung(oid itf15)...
+Info: Basket DM01AVCH24LV95D.Rutschgebiete(oid itf16)...
+Info: Basket DM01AVCH24LV95D.PLZOrtschaft(oid itf17)...
+Info: Basket DM01AVCH24LV95D.Gebaeudeadressen(oid itf18)...
+Info: Basket DM01AVCH24LV95D.Planrahmen(oid itf19)...
+Info: d_eber.itf: DM01AVCH24LV95D.Bezirksgrenzen
+Info: d_eber.itf: DM01AVCH24LV95D.Bodenbedeckung
+Info:      48 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.BBNachfuehrung
+Info:    1215 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.BoFlaeche
+Info:     103 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.BoFlaecheSymbol
+Info:    6428 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.Einzelpunkt
+Info:    6428 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.EinzelpunktPos
+Info:     250 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.Gebaeudenummer
+Info:     250 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.GebaeudenummerPos
+Info:      27 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.Objektname
+Info:      33 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.ObjektnamePos
+Info:       3 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.ProjBoFlaeche
+Info:       2 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.ProjGebaeudenummer
+Info:       2 objects in CLASS DM01AVCH24LV95D.Bodenbedeckung.ProjGebaeudenummerPos
+Info: d_eber.itf: DM01AVCH24LV95D.Einzelobjekte
+Info:      42 objects in CLASS DM01AVCH24LV95D.Einzelobjekte.EONachfuehrung
+Info:     886 objects in CLASS DM01AVCH24LV95D.Einzelobjekte.Einzelobjekt
+Info:     864 objects in CLASS DM01AVCH24LV95D.Einzelobjekte.Einzelpunkt
+Info:     861 objects in CLASS DM01AVCH24LV95D.Einzelobjekte.EinzelpunktPos
+Info:     408 objects in CLASS DM01AVCH24LV95D.Einzelobjekte.Flaechenelement
+Info:     746 objects in CLASS DM01AVCH24LV95D.Einzelobjekte.Linienelement
+Info:      10 objects in CLASS DM01AVCH24LV95D.Einzelobjekte.LinienelementSymbol
+Info:      16 objects in CLASS DM01AVCH24LV95D.Einzelobjekte.Objektnummer
+Info:      16 objects in CLASS DM01AVCH24LV95D.Einzelobjekte.ObjektnummerPos
+Info:       6 objects in CLASS DM01AVCH24LV95D.Einzelobjekte.Punktelement
+Info: d_eber.itf: DM01AVCH24LV95D.FixpunkteKategorie1
+Info:       2 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie1.HFP1Nachfuehrung
+Info:       5 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie1.LFP1Nachfuehrung
+Info: d_eber.itf: DM01AVCH24LV95D.FixpunkteKategorie2
+Info:       3 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie2.HFP2Nachfuehrung
+Info:       1 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie2.LFP2
+Info:       6 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie2.LFP2Nachfuehrung
+Info:       1 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie2.LFP2Pos
+Info:       1 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie2.LFP2Symbol
+Info: d_eber.itf: DM01AVCH24LV95D.FixpunkteKategorie3
+Info:       2 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie3.HFP3Nachfuehrung
+Info:    1675 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie3.LFP3
+Info:      11 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie3.LFP3Nachfuehrung
+Info:    1675 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie3.LFP3Pos
+Info:    1675 objects in CLASS DM01AVCH24LV95D.FixpunkteKategorie3.LFP3Symbol
+Info: d_eber.itf: DM01AVCH24LV95D.Gebaeudeadressen
+Info:      39 objects in CLASS DM01AVCH24LV95D.Gebaeudeadressen.BenanntesGebiet
+Info:      15 objects in CLASS DM01AVCH24LV95D.Gebaeudeadressen.GEBNachfuehrung
+Info:     101 objects in CLASS DM01AVCH24LV95D.Gebaeudeadressen.Gebaeudeeingang
+Info:      53 objects in CLASS DM01AVCH24LV95D.Gebaeudeadressen.HausnummerPos
+Info:      57 objects in CLASS DM01AVCH24LV95D.Gebaeudeadressen.Lokalisation
+Info:      57 objects in CLASS DM01AVCH24LV95D.Gebaeudeadressen.LokalisationsName
+Info:      66 objects in CLASS DM01AVCH24LV95D.Gebaeudeadressen.LokalisationsNamePos
+Info:      21 objects in CLASS DM01AVCH24LV95D.Gebaeudeadressen.Strassenstueck
+Info: d_eber.itf: DM01AVCH24LV95D.Gemeindegrenzen
+Info:       6 objects in CLASS DM01AVCH24LV95D.Gemeindegrenzen.GEMNachfuehrung
+Info:       1 objects in CLASS DM01AVCH24LV95D.Gemeindegrenzen.Gemeinde
+Info:       2 objects in CLASS DM01AVCH24LV95D.Gemeindegrenzen.Gemeindegrenze
+Info:     859 objects in CLASS DM01AVCH24LV95D.Gemeindegrenzen.Hoheitsgrenzpunkt
+Info:     859 objects in CLASS DM01AVCH24LV95D.Gemeindegrenzen.HoheitsgrenzpunktPos
+Info:     858 objects in CLASS DM01AVCH24LV95D.Gemeindegrenzen.HoheitsgrenzpunktSymbol
+Info: d_eber.itf: DM01AVCH24LV95D.Hoehen
+Info:       1 objects in CLASS DM01AVCH24LV95D.Hoehen.HONachfuehrung
+Info: d_eber.itf: DM01AVCH24LV95D.Kantonsgrenzen
+Info: d_eber.itf: DM01AVCH24LV95D.Landesgrenzen
+Info: d_eber.itf: DM01AVCH24LV95D.Liegenschaften
+Info:    2476 objects in CLASS DM01AVCH24LV95D.Liegenschaften.Grenzpunkt
+Info:    2476 objects in CLASS DM01AVCH24LV95D.Liegenschaften.GrenzpunktPos
+Info:    2476 objects in CLASS DM01AVCH24LV95D.Liegenschaften.GrenzpunktSymbol
+Info:     272 objects in CLASS DM01AVCH24LV95D.Liegenschaften.Grundstueck
+Info:     321 objects in CLASS DM01AVCH24LV95D.Liegenschaften.GrundstueckPos
+Info:      38 objects in CLASS DM01AVCH24LV95D.Liegenschaften.LSNachfuehrung
+Info:     271 objects in CLASS DM01AVCH24LV95D.Liegenschaften.Liegenschaft
+Info:       1 objects in CLASS DM01AVCH24LV95D.Liegenschaften.SelbstRecht
+Info: d_eber.itf: DM01AVCH24LV95D.Nomenklatur
+Info:     100 objects in CLASS DM01AVCH24LV95D.Nomenklatur.Flurname
+Info:     124 objects in CLASS DM01AVCH24LV95D.Nomenklatur.FlurnamePos
+Info:       1 objects in CLASS DM01AVCH24LV95D.Nomenklatur.Gelaendename
+Info:       2 objects in CLASS DM01AVCH24LV95D.Nomenklatur.GelaendenamePos
+Info:       6 objects in CLASS DM01AVCH24LV95D.Nomenklatur.NKNachfuehrung
+Info:       1 objects in CLASS DM01AVCH24LV95D.Nomenklatur.Ortsname
+Info:       1 objects in CLASS DM01AVCH24LV95D.Nomenklatur.OrtsnamePos
+Info: d_eber.itf: DM01AVCH24LV95D.Nummerierungsbereiche
+Info:      18 objects in CLASS DM01AVCH24LV95D.Nummerierungsbereiche.NBGeometrie
+Info:      15 objects in CLASS DM01AVCH24LV95D.Nummerierungsbereiche.Nummerierungsbereich
+Info:      18 objects in CLASS DM01AVCH24LV95D.Nummerierungsbereiche.NummerierungsbereichPos
+Info: d_eber.itf: DM01AVCH24LV95D.PLZOrtschaft
+Info:       3 objects in CLASS DM01AVCH24LV95D.PLZOrtschaft.OSNachfuehrung
+Info:       4 objects in CLASS DM01AVCH24LV95D.PLZOrtschaft.Ortschaft
+Info:       4 objects in CLASS DM01AVCH24LV95D.PLZOrtschaft.OrtschaftsName
+Info:       4 objects in CLASS DM01AVCH24LV95D.PLZOrtschaft.OrtschaftsName_Pos
+Info:       2 objects in CLASS DM01AVCH24LV95D.PLZOrtschaft.OrtschaftsVerbund
+Info:       2 objects in CLASS DM01AVCH24LV95D.PLZOrtschaft.OrtschaftsVerbundText
+Info:       4 objects in CLASS DM01AVCH24LV95D.PLZOrtschaft.PLZ6
+Info:       1 objects in CLASS DM01AVCH24LV95D.PLZOrtschaft.PLZ6Nachfuehrung
+Info: d_eber.itf: DM01AVCH24LV95D.Planeinteilungen
+Info:      10 objects in CLASS DM01AVCH24LV95D.Planeinteilungen.Plan
+Info:      10 objects in CLASS DM01AVCH24LV95D.Planeinteilungen.PlanPos
+Info:      10 objects in CLASS DM01AVCH24LV95D.Planeinteilungen.Plangeometrie
+Info: d_eber.itf: DM01AVCH24LV95D.Planrahmen
+Info:      10 objects in CLASS DM01AVCH24LV95D.Planrahmen.Darstellungsflaeche
+Info:      11 objects in CLASS DM01AVCH24LV95D.Planrahmen.PlanLayout
+Info:      51 objects in CLASS DM01AVCH24LV95D.Planrahmen.Planbeschriftung
+Info:      51 objects in CLASS DM01AVCH24LV95D.Planrahmen.PlanbeschriftungPos
+Info: d_eber.itf: DM01AVCH24LV95D.Rohrleitungen
+Info:       1 objects in CLASS DM01AVCH24LV95D.Rohrleitungen.Leitungsobjekt
+Info:       4 objects in CLASS DM01AVCH24LV95D.Rohrleitungen.LeitungsobjektPos
+Info:       2 objects in CLASS DM01AVCH24LV95D.Rohrleitungen.Linienelement
+Info:       3 objects in CLASS DM01AVCH24LV95D.Rohrleitungen.RLNachfuehrung
+Info: d_eber.itf: DM01AVCH24LV95D.Rutschgebiete
+Info: d_eber.itf: DM01AVCH24LV95D.TSEinteilung
+Info:       3 objects in CLASS DM01AVCH24LV95D.TSEinteilung.Toleranzstufe
+Info:       3 objects in CLASS DM01AVCH24LV95D.TSEinteilung.ToleranzstufePos
+Info: ...import done
